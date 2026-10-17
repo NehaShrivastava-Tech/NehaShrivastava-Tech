@@ -10,7 +10,7 @@ Full Stack Developer<br>Focused on Python, HTML , CSS, JavaScript, React<br>Aspi
 
 <div align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=achievements">
-    <img src="" width="90" alt="Pull Shark Badge" />
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark Badge" />
   </a>
 </div>
 
